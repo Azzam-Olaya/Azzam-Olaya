@@ -13,11 +13,11 @@
 
 ### 👤 About Me
 
-I am a rigorous and solution-driven Full Stack Developer based in Safi, Morocco. With a strong academic foundation in **Mathematics and Computer Science**, I am currently sharpening my software engineering expertise at **YouCode (UM6P)**[cite: 1]. 
+I am a rigorous and solution-driven Full Stack Developer based in Safi, Morocco. With a strong academic foundation in **Mathematics and Computer Science**, I am currently sharpening my software engineering expertise at **YouCode (UM6P)**. 
 
-* 🔭 I’m currently working on advanced web applications using **Laravel** and **Vue.js**[cite: 1].
-* ⚙️ I love architecting secure backends, optimizing databases, and setting up containerized environments[cite: 1].
-* ⚡ Fun fact: I enjoy diving deep into Linux systems and building smooth UX/UI experiences[cite: 1].
+* 🔭 I’m currently working on advanced web applications using **Laravel** and **Vue.js**.
+* ⚙️ I love architecting secure backends, optimizing databases, and setting up containerized environments.
+* ⚡ Fun fact: I enjoy diving deep into Linux systems and building smooth UX/UI experiences.
 
 ---
 
